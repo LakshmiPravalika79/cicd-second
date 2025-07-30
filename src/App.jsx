@@ -8,8 +8,8 @@ function App() {
 
   return (
     <>
-     <h1>Welcome to CICD Learning!!</h1>
-        
+     <div>Hello Welcome {reactLogo}</div>
+      <h2>Hi Iam Lakshmi Pravalika</h2>
     </>
   )
 }
